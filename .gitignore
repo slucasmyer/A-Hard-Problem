@@ -143,3 +143,5 @@ Thumbs.db
 */.ipynb_checkpoints/*
 # config file
 config.py
+# csv files
+*.csv
