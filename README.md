@@ -15,7 +15,7 @@ Ascertaining the existence of ceratin 'communities' extant in Twitter-space duri
    
    <br>
     <p align = "center">
-      <img src = "/Graphs/price_data_2.png" width = 700>
+      <img src = "/Graphs/LDA.png" width = 700>
     </p>
    <br>
    
@@ -23,12 +23,7 @@ Ascertaining the existence of ceratin 'communities' extant in Twitter-space duri
    
    <br>
     <p align = "center">
-      <img src = "/Graphs/tweet_volume.png" width = 700>
-    </p>
-   <br>
-   <br>
-    <p align = "center">
-      <img src = "/Graphs/compound_sentiment.png" width = 700>
+      <img src = "/Graphs/econ_wordCloud.png" width = 700>
     </p>
    <br>
    
@@ -36,27 +31,18 @@ Ascertaining the existence of ceratin 'communities' extant in Twitter-space duri
    
    <br>
     <p align = "center">
-      <img src = "/Graphs/tsla_price_data.jpg" width = 700>
+      <img src = "/Graphs/trump_wordCloud.png" width = 700>
     </p>
    <br>
-   
-- ### 
-   
    
 - ### 
    
    <br>
     <p align = "center">
-      <img src = "/Graphs/tsla_baseline.png" width = 700>
+      <img src = "/Graphs/boris_wordCloud.png" width = 700>
     </p>
    <br>
-- ### 
    
-   <br>
-    <p align = "center">
-      <img src = "/Graphs/tsla_lstm.png" width = 700>
-    </p>
-   <br>
 - ### 
   - 
   - 
