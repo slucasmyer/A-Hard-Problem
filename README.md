@@ -11,7 +11,7 @@ Ascertaining the existence of ceratin 'communities' extant in Twitter-space duri
    #### 
 
 ##  Repo Contents
-- ### 
+- ### Latent-Dirichlet-Allocation
    
    <br>
     <p align = "center">
@@ -19,7 +19,7 @@ Ascertaining the existence of ceratin 'communities' extant in Twitter-space duri
     </p>
    <br>
    
-- ### 
+- ### WordCloud generated via 'Economy' request
    
    <br>
     <p align = "center">
@@ -27,7 +27,7 @@ Ascertaining the existence of ceratin 'communities' extant in Twitter-space duri
     </p>
    <br>
    
-- ### 
+- ### WordCloud generated via 'Trump' twint request
    
    <br>
     <p align = "center">
@@ -35,7 +35,7 @@ Ascertaining the existence of ceratin 'communities' extant in Twitter-space duri
     </p>
    <br>
    
-- ### 
+- ### WordCloud generated via 'Boris' request
    
    <br>
     <p align = "center">
