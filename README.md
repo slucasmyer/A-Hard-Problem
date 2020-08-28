@@ -2,7 +2,7 @@
 Ascertaining the existence of ceratin 'communities' extant in Twitter-space during the early days of COVID-19 hysteria
 
 ## Project Goal:
-   #### 
+   #### Investigate relationships among certain words on twitter in hopes of
 ## Process:
    #### 
    #### 
