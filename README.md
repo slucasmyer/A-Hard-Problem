@@ -4,9 +4,9 @@ Ascertaining the existence of ceratin 'communities' extant in Twitter-space duri
 ## Project Goal:
    #### Investigate relationships among certain words on twitter in hopes of
 ## Process:
-   #### 
-   #### 
-   #### 
+   #### Used the Python 'Twint' library to scrape roughly 100,000 tweets related to 'coronavirus
+   #### Filtered the tweets, using Vader sentiment analyzer, to find sentimentally non-neutral tweets
+   #### Find the most intelligibly-distinct Twitter communities based on natural language processing, e.g. tweets related to: 'Trump', 'Health', 'Economy', 'Employment', 'Hope'
    #### 
    #### 
 
