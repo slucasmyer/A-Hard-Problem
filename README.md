@@ -5,12 +5,15 @@ Ascertaining the existence of ceratin 'communities' extant in Twitter-space duri
    #### Investigate relationships among certain words on twitter in hopes of
 ## Process:
    #### Used the Python 'Twint' library to scrape roughly 100,000 tweets related to 'coronavirus
-   #### Filtered the tweets, using Vader sentiment analyzer, to find sentimentally non-neutral tweets
-   #### Find the most intelligibly-distinct Twitter communities based on natural language processing, e.g. tweets related to: 'Trump', 'Health', 'Economy', 'Employment', 'Hope'
-   #### 
-   #### 
+   #### Filtered the tweets, using Vader sentiment analyzer, in order to remove sentimentally non-neutral tweets
+   #### Sought the most intelligibly-distinct Twitter communities based on natural language processing
+   #### Removed stop-words, emails, quotes, new lines characters, and convert the set of tweets into a bag of words
+   #### Generated an LDA model for interactive visulization of associated terms
+   #### Used word-clouds in order to view words most frequently found in tweets containing the words 'Trump', 'Health', 'Economy', 'Employment', 'Hope'
 
 ##  Repo Contents
+   #### Tweet-Pipeline Notebook
+
 - ### Latent-Dirichlet-Allocation
    
    <br>
@@ -42,8 +45,3 @@ Ascertaining the existence of ceratin 'communities' extant in Twitter-space duri
       <img src = "/Graphs/boris_wordCloud.png" width = 700>
     </p>
    <br>
-   
-- ### 
-  - 
-  - 
-  - 
